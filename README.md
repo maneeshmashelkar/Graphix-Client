@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Graphix T-shirt store (client)
+
+## DEMO : [Click Here](https://graphix-store.netlify.app/).
+
+ Graphix is a web app Build using MERN stack with integrated Payment Gateway (stripe).
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
