@@ -2,7 +2,7 @@
 
 **DEMO : [Click Here](https://graphix-store.netlify.app/).**
 
-Graphix is a web app Build using MERN stack with integrated Payment Gateway (stripe).
+Graphix is a web app Built using MERN stack with integrated Payment Gateway (stripe).
 
 **server code: [click here](https://github.com/maneeshmashelkar/Graphix-server).**
 
